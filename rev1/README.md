@@ -1,5 +1,5 @@
 # Aplx6
-https://github.com/Aplyard/Aplx6   
+https://github.com/Aplyard/aplx6   
    
 A stylish (2x3) 6-key MediaPad for your music and browser shortcuts.
 Designed to be assembled as a sandwich with a blank pcb, using m2.5 screws and spacers. 
@@ -44,7 +44,7 @@ All ProMicro pins can be found [here](https://golem.hu/article/pro-micro-pinout/
 
 Make example for this keyboard (after setting up your build environment):
 
-     make aplx6:Media
+     make aplyard/aplx6/rev1:default
 
 See [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 
