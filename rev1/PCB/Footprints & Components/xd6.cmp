@@ -1,0 +1,147 @@
+Cmp-Mod V01 Created by PcbNew   date = 09-Apr-20 11:26:50 AM
+
+BeginCmp
+TimeStamp = 5E9FF116
+Path = /5E6BE554
+Reference = U1;
+ValeurCmp = ProMicro;
+IdModule  = promicro:ProMicro1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA036C5
+Path = /5E6BEF35
+Reference = D1;
+ValeurCmp =  ;
+IdModule  = keyboard_parts:D_SOD123_axial_APLYARD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA036D1
+Path = /5E6BF2E4
+Reference = D3;
+ValeurCmp =  ;
+IdModule  = keyboard_parts:D_SOD123_axial_APLYARD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA036DD
+Path = /5E6BF356
+Reference = D5;
+ValeurCmp =  ;
+IdModule  = keyboard_parts:D_SOD123_axial_APLYARD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA036D7
+Path = /5E6BF32A
+Reference = D4;
+ValeurCmp =  ;
+IdModule  = keyboard_parts:D_SOD123_axial_APLYARD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA036CB
+Path = /5E6BF192
+Reference = D2;
+ValeurCmp =  ;
+IdModule  = keyboard_parts:D_SOD123_axial_APLYARD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA036E3
+Path = /5E6BF386
+Reference = D6;
+ValeurCmp =  ;
+IdModule  = keyboard_parts:D_SOD123_axial_APLYARD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E84EEA5
+Path = /5E6BE613
+Reference = SW2;
+ValeurCmp = KEYSW;
+IdModule  = TMK2:Mx_Alps_100;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E84EEEF
+Path = /5E6BE98B
+Reference = SW4;
+ValeurCmp = KEYSW;
+IdModule  = TMK2:Mx_Alps_100;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E84EF39
+Path = /5E6BE7C2
+Reference = SW6;
+ValeurCmp = KEYSW;
+IdModule  = TMK2:Mx_Alps_100;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA0979F
+Path = 
+Reference = HOLE_M2.6;
+ValeurCmp = m2.6;
+IdModule  = keyboard_parts:HOLE_M2.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA0979F
+Path = 
+Reference = HOLE_M2.6;
+ValeurCmp = m2.6;
+IdModule  = keyboard_parts:HOLE_M2.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E84EE80
+Path = /5E6BE991
+Reference = SW1;
+ValeurCmp = KEYSW;
+IdModule  = TMK2:Mx_Alps_100;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E84EECA
+Path = /5E6BE711
+Reference = SW3;
+ValeurCmp = KEYSW;
+IdModule  = TMK2:Mx_Alps_100;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E84EF14
+Path = /5E6BE997
+Reference = SW5;
+ValeurCmp = KEYSW;
+IdModule  = TMK2:Mx_Alps_100;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E936E28
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = aplx6:aplx6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA09D23
+Path = 
+Reference = HOLE_M2.6;
+ValeurCmp = m2.6;
+IdModule  = keyboard_parts:HOLE_M2.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EA09F0E
+Path = 
+Reference = HOLE_M2.6;
+ValeurCmp = m2.6;
+IdModule  = keyboard_parts:HOLE_M2.6;
+EndCmp
+
+EndListe
